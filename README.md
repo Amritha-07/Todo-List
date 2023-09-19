@@ -13,10 +13,8 @@ Currently, two official plugins are available:
 - HTML
 - CSS
 
-## Demo
-
-![image](https://github.com/Amritha-07/Todo-List/assets/74042644/0fc1e502-e472-4188-8f20-f275554c1ea2)
-
 ## Deployment
 
 Here's a live deployment - https://todo-list-erhn.onrender.com
+
+![image](https://github.com/Amritha-07/Todo-List/assets/74042644/0fc1e502-e472-4188-8f20-f275554c1ea2)
