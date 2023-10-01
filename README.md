@@ -16,14 +16,13 @@ Here's a live deployment - https://todo-list-erhn.onrender.com
 - HTML
 - CSS
 
-## React + Vite
+## Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- The application allows you to create a new task by entering its name.
+- The application displays your tasks in a list.
+- The application allows you delete any task.
+- The application allows you to mark any task as complete or incomplete by clicking on the checkbox next to its name.
+- The application saves your tasks in the local storage of your browser, so you can access them anytime.
 
 ## Installation and Usage
 
@@ -32,6 +31,10 @@ To install and run this project, you need to have Nodejs installed on your compu
 To download the code for this project, you can clone this GitHub repository using the following command:
 
 ```git clone https://github.com/Amritha-07/Todo-List.git```
+
+To start the application
+
+```npm start```
 
 ## References
 
