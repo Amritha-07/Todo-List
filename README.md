@@ -1,5 +1,9 @@
 # Todo-List
 
+A Simple and Effective Task Manager
+
+This project is a web-based application that allows you to create and manage your tasks in a todo list. It uses HTML, CSS, and JavaScript to create a user-friendly interface that lets you add, edit, delete, and mark your tasks as complete or incomplete.
+
 Here's a live deployment - https://todo-list-erhn.onrender.com
 
 <center>
